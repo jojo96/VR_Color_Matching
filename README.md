@@ -8,7 +8,8 @@ Oculus Quest 2 VR HMD
 The VR setup was done following this tutorial: [How to Make a VR Game in Unity - PART 1](https://youtu.be/HhtTtvBF5bI?list=PLpEoiloH-4eP-OKItF8XNJ8y8e1asOJud&t=8)
 
 # Files
-The whole project can be downloaded from here: 
+The whole project can be downloaded from here: [Project files](https://kuleuven-my.sharepoint.com/:u:/g/personal/ujjayanta_bhaumik_kuleuven_be/EROJXV9BVI1DrV7l6kMW7xQB8RSkAq8PUcJp-JoPLHVtjg?e=ceossr)
+
 I have included the assets file in this repository.
 
 # Experimental Idea
