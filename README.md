@@ -7,6 +7,13 @@ Oculus Quest 2 VR HMD
 
 The VR setup was done following this tutorial: [How to Make a VR Game in Unity - PART 1](https://youtu.be/HhtTtvBF5bI?list=PLpEoiloH-4eP-OKItF8XNJ8y8e1asOJud&t=8)
 
+Simple steps:
+
+1) Edit --> Project Settings --> Install XR Plugin Management
+2) Select OpenXR in the Desktop and Android tabs in the XR Plug-in Management window (OpenXR should be checked after doing this)
+3) Go to the XR Plug-in Management section on the side tab and click OpenXR. In the Interaction Profiles tab, add Oculus Touch Controller Profile (for both PC and Android)
+4) Now, go to Windows --> Package Manager --> Add package by name --> com.unity.xr.interaction.toolkit
+
 # Files
 The whole project can be downloaded from here: [Project files](https://kuleuven-my.sharepoint.com/:u:/g/personal/ujjayanta_bhaumik_kuleuven_be/EROJXV9BVI1DrV7l6kMW7xQB8RSkAq8PUcJp-JoPLHVtjg?e=ceossr)
 
